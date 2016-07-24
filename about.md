@@ -4,9 +4,9 @@ title: About 😛
 permalink: /about/
 ---
 
-I'm available on a contract basis for Swift iOS development, specializing in most types of video ([static](http://www.zapsapp.com), [3D](http://www.zapsapp.com), live).
+I'm available on a contract basis for `Swift iOS` development, specializing in most types of video ([static](http://www.zapsapp.com), [3D](http://www.zapsapp.com), live).
 
-Send me [an email](mailto:hunter.monk@gmail.com), call at 817-914-4411, or send me a tweet at {% include icon-twitter.html username="huntermmonk" %}.
+If you're interested in starting a new project with me, or just need some help with anything `iOS`, send me [an email](mailto:hunter.monk@gmail.com), call at 817-914-4411, or send me a tweet at {% include icon-twitter.html username="huntermmonk" %}.
 
 Timeline ⏳
 ---
