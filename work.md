@@ -22,6 +22,10 @@ Here's a quick recap of some of the iOS projects I've worked on recently:
 
 <br>
 
+Post fun and funny videos to where you are, and see what others have posted in your downtown, at the show or wherever.
+
+The shots from **everyone** around you (in the same class, same restaurant etc.) are stitched together into _one seamless_ video.
+
 **-[Capital Factory](www.capitalfactory.com) Accelerator Company-**
 
 [![Download ZAPS](../img/appstore.svg "Download ZAPS")](https://itunes.apple.com/us/app/zaps-share-videos-by-location/id975333802?ls=1&mt=8)
@@ -52,11 +56,17 @@ Here's a quick recap of some of the iOS projects I've worked on recently:
 
 # Letters of the Alphabet with Fluffy 👶🏼
 
-[![Alphabet Facebook Page](../img/fluffy.png "Alphabet Facebook Page")](https://www.facebook.com/letterswithfluffy/)
+Learn the letters and sounds of the Alphabet with the help of Fluffy! Simple and fun, Fluffy engages your child with positive reinforcement throughout the app.
 
-Learn the letters and sounds of the Alphabet with the help of Fluffy! Simple and fun, Fluffy engages your child with positive reinforcement throughout the app. Swipe left and right for letters then tap each letter or item to hear their sound.
+[]()              |  []()          | []()
+:-------------------------:|:-------------------------:|:-------------------------:
+<a href="https://itunes.apple.com/us/app/abcs-letters-alphabet-fluffy/id1108198702?mt=8"> <img src="../img/alphabet1.jpg" alt="" class = "rounded"> </a> | <a href="https://itunes.apple.com/us/app/abcs-letters-alphabet-fluffy/id1108198702?mt=8"> <img src="../img/alphabet2.jpg" alt="" class = "rounded"> </a> | <a href="https://itunes.apple.com/us/app/abcs-letters-alphabet-fluffy/id1108198702?mt=8"> <img src="../img/alphabet3.jpg" alt="" class = "rounded"> </a>
 
-Backed by an educator with 30 years of beginner reader experience. This proven method of learning has been updated for mobile devices with bright illustrations and a mascot loved by hundreds of children over decades of teaching.
+<br>
+
+Swipe ⬅️ left and right ➡️ for letters, then tap each letter or item to hear their sound.
+
+>Backed by an educator with 30 years of beginner reader experience. This proven method of learning has been updated for mobile devices with bright illustrations and a mascot loved by hundreds of children over decades of teaching.
 
 [![Download Alphabet](../img/appstore.svg "Download Alphabet")](https://itunes.apple.com/us/app/abcs-letters-alphabet-fluffy/id1108198702?mt=8)
 
