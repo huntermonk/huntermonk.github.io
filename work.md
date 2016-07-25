@@ -10,15 +10,17 @@ If you're interested in starting a new project with me, or just need some help w
 
 Here's a quick recap of some of the iOS projects I've worked on recently:
 
+<br>
+
 # ZAPS ⚡️
 
 [ZAPS⚡️](http://www.zapsapp.com)lets you create what is basically a public snapchat story for any location. It's like Yik Yak with video.
 
-* Post fun and funny videos to where you are, and see what others have posted in your downtown, at the show or wherever.
+[]()              |  []()          | []()
+:-------------------------:|:-------------------------:|:-------------------------:
+<a href="https://itunes.apple.com/us/app/zaps-share-videos-by-location/id975333802?ls=1&mt=8"> <img src="../img/zaps1.jpg" alt="" class = "rounded"> </a> | <a href="https://itunes.apple.com/us/app/zaps-share-videos-by-location/id975333802?ls=1&mt=8"> <img src="../img/zaps2.jpg" alt="" class = "rounded"> </a> | <a href="https://itunes.apple.com/us/app/zaps-share-videos-by-location/id975333802?ls=1&mt=8"> <img src="../img/zaps3.jpg" alt="" class = "rounded"> </a>
 
-* The shots from everyone around you (in the same class, same restaurant etc.) are stitched together into one seamless video.
-
-* Start posting for everyone to see.
+<br>
 
 **-[Capital Factory](www.capitalfactory.com) Accelerator Company-**
 
