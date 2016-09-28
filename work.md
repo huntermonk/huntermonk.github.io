@@ -33,9 +33,30 @@ The shots from **everyone** around you (in the same class, same restaurant etc.)
 ---
 <br><br>
 
+# Filter Mason ⚒
+
+Build geo filters for Snapchat with [Filter Mason](http://www.filtermason.com)! Easily drag together a filter template and stickers, or entirely create one of your own.
+
+[]()              |  []()          | []()
+:-------------------------:|:-------------------------:|:-------------------------:
+<a href="https://itunes.apple.com/bt/app/filter-mason-for-snapchat/id1142725550?mt=8"> <img src="../img/fm1.jpg" alt="" class = "rounded"> </a> | <a href="https://itunes.apple.com/bt/app/filter-mason-for-snapchat/id1142725550?mt=8"> <img src="../img/fm2.jpg" alt="" class = "rounded"> </a> | <a href="https://itunes.apple.com/bt/app/filter-mason-for-snapchat/id1142725550?mt=8"> <img src="../img/fm3.jpg" alt="" class = "rounded"> </a>
+
+<br>
+
+>Filter Mason lets you **quickly** create a beautiful and customized Geo-Filter for Snapchat. Surprise your friends by creating a filter for a birthday or wedding. More than two dozen filters _and_ growing!
+>
+>Even better, swipe left while editing text to change fonts. Snapchat doesn't even have that functionality.
+>
+>Use stickers to enhance a filter or create one completely from scratch with the DIY filter.
+
+[![Download Filter Mason](../img/appstore.svg "Download Filter Mason")](https://itunes.apple.com/bt/app/filter-mason-for-snapchat/id1142725550?mt=8)
+
+---
+<br><br>
+
 # Walk-in Theater 📽
 
-[Walk-in Theater](http://www.walk-in-theater.com) creates a 3D environment that you can "walk through", and enjoy spatialized audio playing from multiple 2D video panes.
+In [Walk-in Theater](http://www.walk-in-theater.com), you get to experience a 3D environment that you "walk through", and enjoy spatialized audio playing from multiple 2D video panes.
 
 ![Walk-in Theater displayed on the iPad](../img/wit.png "Walk-in Theater displayed on the iPad")
 
