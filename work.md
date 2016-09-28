@@ -93,3 +93,24 @@ Swipe ⬅️ left and right ➡️ for letters, then tap each letter or item to 
 
 ---
 <br><br>
+
+# Puppy 🐶 or Bagel 🍩 👶🏼
+
+I had a challenge for myself to create and submit a game to the app store in 8 hours. On the day of the challenge, a [puppy or bagel meme](http://twistedsifter.com/2016/03/puppy-or-bagel-meme-gallery/) blew up on the internet, made by [teenybiscuit](https://twitter.com/teenybiscuit?lang=en).
+
+It's an album of puppies and bagels and it's hard to determine which is which 😋.
+
+In the game, you have to tap either all the puppies or all the bagels in a short amount of time. That's it 😛
+
+[]()              |  []()          | []()
+:-------------------------:|:-------------------------:|:-------------------------:
+<a href="https://itunes.apple.com/us/app/puppy-or-bagel/id1092905389?ls=1&mt=8"> <img src="../img/pob1.jpg" alt="" class = "rounded"> </a> | <a href="https://itunes.apple.com/us/app/puppy-or-bagel/id1092905389?ls=1&mt=8"> <img src="../img/pob2.jpg" alt="" class = "rounded"> </a> | <a href="https://itunes.apple.com/us/app/puppy-or-bagel/id1092905389?ls=1&mt=8"> <img src="../img/pob3.jpg" alt="" class = "rounded"> </a>
+
+<br>
+ 
+>[@teenybiscuit](https://twitter.com/teenybiscuit/status/710667133861044224) - "holy crap there's an app -- made by @maximillionnn (now [@huntermmonk](twitter.com/huntermmonk))"
+
+[![Download Puppy or Bagel](../img/appstore.svg "Download Puppy or Bagel")](https://itunes.apple.com/us/app/puppy-or-bagel/id1092905389?ls=1&mt=8)
+
+---
+<br><br>
