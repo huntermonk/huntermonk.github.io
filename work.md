@@ -12,6 +12,38 @@ Here's a quick recap of some of the iOS projects I've worked on recently:
 
 <br>
 
+# 7-Eleven 7️⃣1️⃣1️⃣
+
+**Note: One of two iOS engineers on this app.**
+
+Take the convenience of [7-Eleven](https://itunes.apple.com/us/app/7-eleven-inc./id589653414?ls=1&mt=8) everywhere you go with this new app. It puts savings in your pocket so every trip is more affordable, and rewards you for coming back so every trip is more enjoyable.
+
+[]()              |  []()          | []()
+:-------------------------:|:-------------------------:|:-------------------------:
+<a href="https://itunes.apple.com/us/app/7-eleven-inc./id589653414?ls=1&mt=8"> <img src="../img/711-1.jpg" alt="" class = "rounded"> </a> | <a href="https://itunes.apple.com/us/app/7-eleven-inc./id589653414?ls=1&mt=8"> <img src="../img/711-2.jpg" alt="" class = "rounded"> </a> | <a href="https://itunes.apple.com/us/app/7-eleven-inc./id589653414?ls=1&mt=8"> <img src="../img/711-3.jpg" alt="" class = "rounded"> </a>
+
+<br>
+
+#### INTRODUCING 7REWARDS℠
+Imagine getting your favorite drinks for free. Now you can with 7Rewards℠. Buy 6 cups, and any 7th is FREE! Any cup, any size, your way, every day.
+
+Start earning 7Rewards today with three easy steps: ·      Download the 7-Eleven app to join. ·      Scan your app barcode at every checkout. ·      Any 7th cup is FREE! 
+
+#### SCAN & SAVE 
+Your member barcode earns you free drinks and so much more. Scan it at checkout to redeem these exclusive offers on 7-Eleven and partner products.
+
+#### FIND YOUR FAVORITE STORE 
+7-Eleven is always on your way. Find the store closest to your route or anywhere in the country, heart your favorites and find out which locations provide services like hot food, Redbox, gas and propane tanks.
+
+You can also use our Slurpee Finder to get your hands on your favorite flavor at a store nearby.
+
+[![Download 7-Eleven](../img/appstore.svg "Download ZAPS")](https://itunes.apple.com/us/app/7-eleven-inc./id589653414?ls=1&mt=8)
+
+---
+<br><br>
+
+<br>
+
 # ZAPS ⚡️
 
 [ZAPS⚡️](http://www.zapsapp.com)lets you create what is basically a public snapchat story for any location. It's like Yik Yak with video.
