@@ -58,7 +58,7 @@ Post fun and funny videos to where you are, and see what others have posted in y
 
 The shots from **everyone** around you (in the same class, same restaurant etc.) are stitched together into _one seamless_ video.
 
-**-[Capital Factory](www.capitalfactory.com) Accelerator Company-**
+**-[Capital Factory](http://www.capitalfactory.com) Accelerator Company-**
 
 [![Download ZAPS](../img/appstore.svg "Download ZAPS")](https://itunes.apple.com/us/app/zaps-share-videos-by-location/id975333802?ls=1&mt=8)
 
