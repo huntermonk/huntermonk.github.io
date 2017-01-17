@@ -140,7 +140,7 @@ In the game, you have to tap either all the puppies or all the bagels in a short
 
 <br>
  
->[@teenybiscuit](https://twitter.com/teenybiscuit/status/710667133861044224) - "holy crap there's an app -- made by @maximillionnn (now [@huntermmonk](twitter.com/huntermmonk))"
+>[@teenybiscuit](https://twitter.com/teenybiscuit/status/710667133861044224) - "holy crap there's an app -- made by @maximillionnn (now {% include icon-twitter.html username="huntermmonk" %})"
 
 [![Download Puppy or Bagel](../img/appstore.svg "Download Puppy or Bagel")](https://itunes.apple.com/us/app/puppy-or-bagel/id1092905389?ls=1&mt=8)
 
