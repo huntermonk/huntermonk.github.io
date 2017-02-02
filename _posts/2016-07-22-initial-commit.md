@@ -13,9 +13,6 @@ for writing in mostWritings {
 {% endhighlight %}
 
 
-Follow me on [Twitter][twitter] for funsies. **Or** follow me on snap `@huntermmonk`.
-
-
 [twitter]: http://twitter.com/huntermmonk
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
