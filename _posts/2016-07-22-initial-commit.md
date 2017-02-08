@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Initial Commit 😛!"
+title:  "Initial commit!"
 date:   2016-07-20 03:41:07 -0500
 categories: jekyll update
 ---
