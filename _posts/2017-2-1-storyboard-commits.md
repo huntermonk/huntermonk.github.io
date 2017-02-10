@@ -5,14 +5,14 @@ date:   2017-2-1 10:34:07 -0600
 categories: jekyll update
 ---
 
-One annoying part of using storyboards is merge conflicts. The conflicts are exarcebated by the fact that each time you look at a storyboard, it changes.
+An annoying part of using storyboards is dealing with merge conflicts. Merge conflicts are handled by looking at the XML, not the actual views, so it's hard to tell which changes to make. 
 
-You can help avoid conflicts by only committing the changes you actually need. 
+Also, each time you _look_ at a storyboard, it changes.
 
-To do that in Xcode while committing, just select the check/cancel button on the commit. Like this:
+You can avoid conflits by only committing changes that you need.
+
+To partially commit in Xcode, just select the check/cancel button on the commit. Like this:
 
 ![Storyboard commit](/img/storyboard-commit.gif)
 
-Leave it checked for the changes you actually want, and uncheck everything else.
-
-I hope that helps.
+Tick the checkmark for changes you want, and uncheck everything else.
