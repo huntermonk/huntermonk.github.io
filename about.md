@@ -17,7 +17,7 @@ In **2008**: I started helping companies outsource their work to the Philippines
 
 In August of **2013**, I started my first venture, [MSpaces](www.M-Spaces.com). We provided a variety of fully furnished living for temporary stays in Austin.
 
-In the beginning of **2015**, I started [ZAPS](www.zapsapp.com), my first iOS app. ZAPS allowed you to post what is similar to a snapchat public story for every location (_your school has it's own story, the bar downtown does etc._).
+In the beginning of **2015**, I started [ZAPS](www.zapsapp.com), my first iOS app. ZAPS allowed you to post what is similar to a snapchat public story for every location (_your school has its own story, the bar downtown does etc._).
 
 Since then, I've done freelance work as an iOS engineer. Most of the projects tend to focus on video (live, static, 3D, etc.), but I've worked across many domains.
 
