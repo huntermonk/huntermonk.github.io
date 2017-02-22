@@ -2,7 +2,6 @@
 layout: post
 title:  "Storyboard commits."
 date:   2017-2-1 10:34:07 -0600
-categories: jekyll update
 ---
 
 An annoying part of using storyboards is dealing with merge conflicts. Merge conflicts are handled by looking at the XML, not the actual views, so it's hard to tell which changes to make. 

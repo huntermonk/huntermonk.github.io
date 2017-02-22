@@ -2,7 +2,6 @@
 layout: post
 title:  "No 💸, only equity."
 date:   2016-10-24 22:34:07 -0600
-categories: jekyll update
 ---
 
 Very often, I get requests like: 

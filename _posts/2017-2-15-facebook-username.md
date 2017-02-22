@@ -2,7 +2,6 @@
 layout: post
 title:  "How to get Facebook username."
 date:   2017-2-15 15:34:07 -0600
-categories: jekyll update
 ---
 
 If you're testing an app that uses Facebook login, you'll need to be added as a tester, developer or admin to the Facebook app.
