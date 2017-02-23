@@ -25,3 +25,5 @@ We will split the revenue 50/50. If we sell it in 7-10 years, we will split the 
 No home builder would go for this - and it's a way better proposition than starting a software company.
 
 A home builder is selling a product with known demand & sales of the company/apartment complex happen all the time. When you're starting a software company, you don't even know what you're building, much less if people will want it.
+
+_Update: [Here's another post](https://medium.com/@robertbieber/technical-co-founders-a-guide-111f69e19b7b#.9hbm75uuj) talking about this._
