@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Rob Napier on remote culture."
-date:   2017-02-23
 ---
 
 Today, [Rob Napier](http://robnapier.net) had some great thoughts on remote culture.

@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Shortcut to full size window"
-date:   2017-02-23
 ---
 
 To full-size a window in macOS, just press:

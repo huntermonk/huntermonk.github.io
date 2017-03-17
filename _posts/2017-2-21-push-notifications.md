@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Push notifications."
-date:   2017-2-21
 ---
 
 I couldn't find a link to examples of push notifications in iOS 10, here's a compilation:
