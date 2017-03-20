@@ -42,8 +42,6 @@ You can also use our Slurpee Finder to get your hands on your favorite flavor at
 ---
 <br><br>
 
-<br>
-
 # ZAPS ⚡️
 
 [ZAPS⚡️](http://www.zapsapp.com)lets you create what is basically a public snapchat story for any location. It's like Yik Yak with video.
