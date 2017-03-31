@@ -12,7 +12,7 @@ Here's a quick recap of some of the iOS projects I've worked on recently:
 
 <br>
 
-# 7-Eleven 7️⃣1️⃣1️⃣
+# [7-Eleven](https://itunes.apple.com/us/app/7-eleven-inc./id589653414?ls=1&mt=8) 7️⃣1️⃣1️⃣
 
 *iOS Lead on team of four.*
 
@@ -42,7 +42,7 @@ You can also use our Slurpee Finder to get your hands on your favorite flavor at
 ---
 <br><br>
 
-# ZAPS ⚡️
+# [ZAPS](http://www.zapsapp.com) ⚡️
 
 [ZAPS⚡️](http://www.zapsapp.com)lets you create what is basically a public snapchat story for any location. It's like Yik Yak with video.
 
@@ -63,7 +63,7 @@ The shots from **everyone** around you (in the same class, same restaurant etc.)
 ---
 <br><br>
 
-# Filter Mason ⚒
+# [Filter Mason](http://www.filtermason.com) ⚒
 
 Build geo filters for Snapchat with [Filter Mason](http://www.filtermason.com)! Easily drag together a filter template and stickers, or entirely create one of your own.
 
@@ -84,7 +84,7 @@ Build geo filters for Snapchat with [Filter Mason](http://www.filtermason.com)! 
 ---
 <br><br>
 
-# Walk-in Theater 📽
+# [Walk-in Theater](http://www.walk-in-theater.com) 📽
 
 In [Walk-in Theater](http://www.walk-in-theater.com), you get to experience a 3D environment that you "walk through", and enjoy spatialized audio playing from multiple 2D video panes.
 
@@ -120,6 +120,23 @@ Swipe ⬅️ left and right ➡️ for letters, then tap each letter or item to 
 >Backed by an educator with 30 years of beginner reader experience. This proven method of learning has been updated for mobile devices with bright illustrations and a mascot loved by hundreds of children over decades of teaching.
 
 [![Download Alphabet](../img/appstore.svg "Download Alphabet")](https://itunes.apple.com/us/app/abcs-letters-alphabet-fluffy/id1108198702?mt=8)
+
+---
+<br><br>
+
+# [Movere Fit](http://moverefit.com) 🏋🏼‍♀️
+
+Movere Fit is a system for tracking the correlation between your student’s athletic performance, their GPA, and more.
+
+The data collected shows their movement through the “profiency bands” defined by Movere Fit. The data holds important information that directs students, parents and teachers to address areas of needed improvement.
+
+[]()              |  []()          | []()
+:-------------------------:|:-------------------------:|:-------------------------:
+<a href="https://itunes.apple.com/us/app/movere-fit/id1101588606?mt=8"> <img src="../img/work/movere-1.jpg" alt="" class = "rounded"> </a> | <a href="https://itunes.apple.com/us/app/movere-fit/id1101588606?mt=8"> <img src="../img/work/movere-2.jpg" alt="" class = "rounded"> </a> | <a href="https://itunes.apple.com/us/app/movere-fit/id1101588606?mt=8"> <img src="../img/work/movere-3.jpg" alt="" class = "rounded"> </a>
+
+<br>
+
+[![Download Movere Fit](../img/appstore.svg "Download Alphabet")](https://itunes.apple.com/us/app/movere-fit/id1101588606?mt=8)
 
 ---
 <br><br>
