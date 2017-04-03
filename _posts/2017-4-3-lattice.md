@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Lattice of novel models"
+title:  "Lattice of novel models."
 ---
 
 Right now I'm reading [Poor Charlie's Almanac](https://www.amazon.com/Poor-Charlies-Almanack-Charles-Expanded/dp/1578645018), in which he describes creating a "latticework of mental models".

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Shortcut to full size window"
+title:  "Shortcut to full size window."
 ---
 
 To full-size a window in macOS, just press:
