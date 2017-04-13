@@ -8,10 +8,12 @@ An annoying part of using storyboards is dealing with merge conflicts. Merge con
 
 Also, each time you _look_ at a storyboard, it changes.
 
-You can avoid conflits by only committing changes that you need.
+You can avoid conflicts by only committing changes that you need.
 
 To partially commit in Xcode, just select the check/cancel button on the commit. Like this:
 
 ![Storyboard commit](/img/storyboard-commit.gif)
 
 Tick the checkmark for changes you want, and uncheck everything else.
+
+You can also click the dropdown, then "Discard Changes" to get rid of the changes altogether.
