@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Free MBP fix."
+title:  "Free 💻 fix."
 ---
 
 A couple of days ago, the keys on my brand-new MBP stopped working. I had to buy a duplicate laptop ($3k+) while Apple took 5 business days to fix it.

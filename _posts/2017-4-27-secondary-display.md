@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Change connected display brightness."
+title:  "Change connected 🖥 brightness."
 ---
 
 To change the brightness of an attached/secondary display on the late-2016 MBP with Touch Bar, first get your touch bar into the extended view.
