@@ -4,15 +4,13 @@ title: Work 📱
 permalink: /work/
 ---
 
-I'm available on a contract basis for `Swift iOS` development, specializing in most types of video ([static](http://www.zapsapp.com), [3D](http://www.zapsapp.com), live).
+### My rate is $115/hr.
 
-### My rate is $110/hr.
-
-If you're interested in starting a new project with me, or just need some help with anything `iOS`, send me [an email](mailto:hunter.monk@gmail.com), call at 817-914-4411, or send me a tweet at {% include icon-twitter.html username="huntermmonk" %}.
-
-Here's a quick recap of some of the iOS projects I've worked on recently:
+If you'd like me to help with your project, learn more on the [about](/about) page.
 
 <br>
+
+Here's a quick recap of some of the iOS projects I've worked on recently:
 
 # [7-Eleven](https://itunes.apple.com/us/app/7-eleven-inc./id589653414?ls=1&mt=8) 7️⃣1️⃣1️⃣
 
