@@ -8,8 +8,6 @@ permalink: /work/
 
 If you'd like me to help with your project, learn more on the [about](/about) page.
 
-<br>
-
 Here's a quick recap of some of the iOS projects I've worked on recently:
 
 # [7-Eleven](https://itunes.apple.com/us/app/7-eleven-inc./id589653414?ls=1&mt=8) 7️⃣1️⃣1️⃣
