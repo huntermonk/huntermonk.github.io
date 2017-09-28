@@ -14,6 +14,8 @@ Here's a quick recap of some of the iOS projects I've worked on recently:
 
 *iOS Lead on team of four.*
 
+Finally released as of 9/6/2017! Experiencing a 99.995% crash-free rate. Still fixing bugs and writing new features.
+
 Take the convenience of [7-Eleven](https://itunes.apple.com/us/app/7-eleven-inc./id589653414?ls=1&mt=8) everywhere you go with this new app. It puts savings in your pocket so every trip is more affordable, and rewards you for coming back so every trip is more enjoyable.
 
 []()              |  []()          | []()
