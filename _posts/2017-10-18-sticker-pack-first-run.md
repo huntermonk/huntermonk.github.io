@@ -1,11 +1,10 @@
 ---
 layout: post
-title:  "Crash on sticker pack first run."
+title:  "Crash on iOS 11 sticker pack first run."
 ---
 
-The first time you run your [Sticker Pack](https://developer.apple.com/stickers/) application, you'll probably get a crash similar to the following.
+The first time you run your [Sticker Pack](https://developer.apple.com/stickers/) application on iOS 11, you'll probably get a crash similar to the following.
 
-![attempt to scroll to invalid index path](/img/sticker-crash/output.png)
 > 2017-10-25 14:56:10.513268-0700 MobileSMS[94610:5136614] *** Terminating app due to uncaught exception 'NSInvalidArgumentException', reason: 'attempt to scroll to invalid index path: <NSIndexPath: 0x60c00023b820> {length = 2, path = 0 - 9223372036854775807}'
 
 This is pretty confusing because you probably don't have any index paths specified in your sticker pack.
