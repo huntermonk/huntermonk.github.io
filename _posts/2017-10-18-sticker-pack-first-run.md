@@ -9,7 +9,7 @@ The first time you run your [Sticker Pack](https://developer.apple.com/stickers/
 
 This is pretty confusing because you probably don't have any index paths specified in your sticker pack.
 
-Your simulator is actually trying to scroll to your sticker pack app icon and press it! Unfortunately, your stikcer pack isn't enabled yet, so the index path is invalid.
+Your simulator is actually trying to scroll to your sticker pack app icon and press it! Unfortunately, your sticker pack isn't enabled yet, so the index path is invalid.
 
 To enable your sticker pack, first open your simulator, and tap on a message thread.
 
