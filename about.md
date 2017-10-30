@@ -4,7 +4,7 @@ title: About 😛
 permalink: /about/
 ---
 
-I'm available on a contract basis for `Swift iOS` development, specializing in most types of video ([static](http://www.zapsapp.com), [3D](http://walk-in.theater), live). Recently, I'm focused on [ARKit](https://developer.apple.com/arkit/) projects.
+I'm in Los Angeles, available on a contract basis for `Swift iOS` development, specializing in most types of video ([static](http://www.zapsapp.com), [3D](http://walk-in.theater), live). Recently, I'm focused on [ARKit](https://developer.apple.com/arkit/) projects.
 
 ### My rate is $120/hr.
 
