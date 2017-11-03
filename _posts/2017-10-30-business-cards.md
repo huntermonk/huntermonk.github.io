@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "🙅🏼 Business cards 🙅🏼"
+title:  "Business cards 🙅🏼."
 ---
 
 Next time someone tries to give you a business card, politely decline, and offer to send an email right then. It gives you several advantages.
