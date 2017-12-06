@@ -4,7 +4,7 @@ title: Work 📱
 permalink: /work/
 ---
 
-### My rate is $175/hr.
+### My rate is $175/hr, but I'm currently not accepting new contracts.
 
 If you'd like me to help with your project, learn more on the [about](/about) page.
 
