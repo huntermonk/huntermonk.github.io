@@ -13,5 +13,5 @@ As visible in the video, there's still green screen lines showing. I have a theo
 
 Now the mask and opaque video are perfectly in sync. Any green lines you see are remnants from bad lighting or not setting broadcast settings correctly. Those problems are solvable.
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Hologram app green screen tracking looks a lot better <a href="https://t.co/ITFJ5sFfP6">pic.twitter.com/ITFJ5sFfP6</a></p>&mdash; Hunter Monk (@huntermmonk) <a href="https://twitter.com/huntermmonk/status/938981552641392645?ref_src=twsrc%5Etfw">December 8, 2017</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<blockquote class="twitter-video" data-lang="en"><p lang="en" dir="ltr">Hologram app green screen tracking looks a lot better <a href="https://t.co/ITFJ5sFfP6">pic.twitter.com/ITFJ5sFfP6</a></p>&mdash; Hunter Monk (@huntermmonk) <a href="https://twitter.com/huntermmonk/status/938981552641392645?ref_src=twsrc%5Etfw">December 8, 2017</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
