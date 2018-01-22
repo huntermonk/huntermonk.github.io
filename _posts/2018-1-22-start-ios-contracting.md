@@ -5,7 +5,8 @@ title:  "How to start iOS contracting."
 
 This is my most linkbait title yet.
 
-I recently responded to a Reddit post where someone asked me how to get started conracting. These are my thoughts.
+## General Questions
+I recently responded to a Reddit post where someone asked me how to get started contracting. These are my thoughts.
 
 > So you make custom apps for people and bill them by the hour?
 
@@ -26,4 +27,27 @@ I do get uncooperative ones. About 3 weeks ago, I had to end the relationship wi
 > Any libraries or resources you would recommend someone interested in something like this?
 
 I would just recommend starting coding. I started learning on [Udemy](http://www.udemy.com). Just start shipping products/side-projects so you have a portfolio, and the contracts will come.
+
+## Getting Contracts
+I want to expand on the "How do you find your clients?" question, because I get it a lot. 
+
+I don't have a stream of inbound work proposals, but all of my contracts have been inbound. I don't have any online presence, really.
+
+How I got my most recent contracts, chronologically:
+
+- A mentoring session about my startup at the time, at a local accelerator. (Capital Factory)
+- Upwork.
+- Someone I met at same accelerator. Saw me progressing on previous startup, so that provided validation.
+- Recruiter reached out to me via LinkedIn.
+- At an AR conference. Someone saw me working on another client project and asked what development I do.
+
+So, basically totally random. This may be a result of how I handle my work time when I don't have a contract.
+
+In my mind, there are two things you can do when you don't have a contract. You can either do business development (sending out proposals, etc.), or work on startups/portfolio pieces/side projects. I choose the latter.
+
+I believe that spending time on the former will actually get you a higher revenue per year. However, I'm interested in creating businesses, so I spend my off-time on those. 
+
+My goal is to achieve a total value of liquid assets in the single digit millions range. You can get almost certainly get there contracting, but my desired timeline is probably too aggressive to achieve that contracting. So I try to make new businesses.
+
+Pick whichever off-time method fits your goals.
 
