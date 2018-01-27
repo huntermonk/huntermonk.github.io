@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: chat-page
 title: Work 📱
 permalink: /work/
 ---
