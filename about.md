@@ -25,3 +25,17 @@ In the beginning of **2015**, I started [ZAPS](www.zapsapp.com), my first iOS ap
 Since then, I've done freelance work as an iOS engineer. Most of the projects tend to focus on video (live, static, 3D, etc.), but I've worked across many domains.
 
 You can read more on my [LinkedIn](https://www.linkedin.com/in/hunter-monk-066b3428).
+
+Notable Clients + Colleagues 💫
+---
+![Mark Cuban](/img/testimonials/mark.png)
+_Mark Cuban, Investor. Put Radio on the Internet._
+
+![Josh Baer](/img/testimonials/josh.png)
+_Josh Baer, Mentor. Founder of Capital Factory._
+
+![Bob Metcalfe](/img/testimonials/bob.png)
+_Bob Metcalfe, Mentor. Inventor of Ethernet, Creator of Metcalfe's Law._
+
+![7-Eleven](/img/testimonials/7e.png)
+_7-Eleven, Client. Convenience Store Conglomerate._
