@@ -8,7 +8,18 @@ permalink: /work/
 
 If you'd like me to help with your project, learn more on the [about](/about) page.
 
-Here's a quick recap of some of the iOS projects I've worked on recently:
+### Notable Rankings 📈
+[7-Eleven](https://itunes.apple.com/us/app/7-eleven-inc./id589653414?ls=1&mt=8), #12 in Food & Drink. 4.7 ⭐️ on 2.84k ratings.
+![7-Eleven #12 iOS Ranking](/img/ranking/7e.jpg)
+
+
+[Teleport](https://itunes.apple.com/us/app/teleport/id1288368976?mt=8), #26 in Travel.
+![Teleport #26 iOS Ranking](/img/ranking/teleport.png)
+
+
+<br>
+
+### Recent Projects 👨🏼‍💼
 
 # [7-Eleven](https://itunes.apple.com/us/app/7-eleven-inc./id589653414?ls=1&mt=8) 7️⃣1️⃣1️⃣
 
@@ -141,7 +152,7 @@ The data collected shows their movement through the “profiency bands” define
 ---
 <br><br>
 
-# Puppy 🐶 or Bagel 🍩 👶🏼
+# Puppy 🐶 or Bagel 🍩 
 
 I had a challenge for myself to create and submit a game to the app store in 8 hours. On the day of the challenge, a [puppy or bagel meme](http://twistedsifter.com/2016/03/puppy-or-bagel-meme-gallery/) blew up on the internet, made by [teenybiscuit](https://twitter.com/teenybiscuit?lang=en).
 
@@ -160,5 +171,3 @@ In the game, you have to tap either all the puppies or all the bagels in a short
 
 [![Download Puppy or Bagel](../img/appstore.svg "Download Puppy or Bagel")](https://itunes.apple.com/us/app/puppy-or-bagel/id1092905389?ls=1&mt=8)
 
----
-<br><br>
