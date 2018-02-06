@@ -28,14 +28,14 @@ You can read more on my [LinkedIn](https://www.linkedin.com/in/hunter-monk-066b3
 
 Notable Clients + Colleagues 💫
 ---
-![Mark Cuban](/img/testimonials/mark.png)
+![Mark Cuban](/img/notable-clients/mark.png)
 _Mark Cuban, Investor. Put Radio on the Internet._
 
-![Josh Baer](/img/testimonials/josh.png)
+![Josh Baer](/img/notable-clients/josh.png)
 _Josh Baer, Mentor. Founder of Capital Factory._
 
-![Bob Metcalfe](/img/testimonials/bob.png)
+![Bob Metcalfe](/img/notable-clients/bob.png)
 _Bob Metcalfe, Mentor. Inventor of Ethernet, Creator of Metcalfe's Law._
 
-![7-Eleven](/img/testimonials/7e.png)
+![7-Eleven](/img/notable-clients/7e.png)
 _7-Eleven, Client. Convenience Store Conglomerate._
