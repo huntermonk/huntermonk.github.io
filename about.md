@@ -39,3 +39,14 @@ _Bob Metcalfe, Mentor. Inventor of Ethernet, Creator of Metcalfe's Law._
 
 ![7-Eleven](/img/notable-clients/7e.png)
 _7-Eleven, Client. Convenience Store Conglomerate._
+
+In the News 🗞
+---
+
+_2/6/18_
+
+The [BodyNav](https://itunes.apple.com/us/app/bodynav/id1301069114?mt=8) system I created with [Eric Bear](https://www.linkedin.com/in/ericgouldbear/) is [featured on VentureBeat](https://venturebeat.com/2018/02/06/monkeymedias-bodynav-lets-you-navigate-vr-without-getting-sick/). It is also featured on [Business Wire](https://www.businesswire.com/news/home/20180206005408/en) and [VRFocus](https://www.vrfocus.com/2018/02/vr-locomotion-goes-hands-free-with-monkeymedias-bodynav/).
+
+_December 2017_
+
+7-Eleven tests out doing delivery + pickup in store. Featured on many websites, including [The Verge](https://www.theverge.com/2017/12/13/16772824/7-eleven-delivery-smartphone-app-ios-android).
