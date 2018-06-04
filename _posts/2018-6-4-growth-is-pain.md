@@ -15,7 +15,9 @@ A large period of pain for me was in the beginning of 2014. In a period of a few
 
 I'm going through a similarly tough period now. In the past month, I ended my relationship due to irreconcilable differences, I let my personal spending balloon unsustainably, and I'm now living alone for the first time, which does make it a little harder. Yesterday, I was eliminated on the first day of a televised business competition, which added to the frustration. [2]
 
-My hope is that this will result in another period of growth for me. Of course, I want this theory to be correct because of the pain I'm experiencing now.
+My hope is that this will result in another period of growth for me. 
+
+As a disclaimer, I of course want this theory to be correct because of what I'm experiencing now. I'm currently biased.
 
 [1] To clarify, pain != growth. Kids that grow up in abusive households have a tougher life, even though they've experienced more pain. It's about the pain that results from growth.
 
