@@ -11,9 +11,9 @@ It might be a coincidence, but I think the increased amount of pain children exp
 
 _The remainder of this essay is personal, so feel free to skip it. It is uncomfortably personal for me._
 
-A large period of pain for me was in the beginning of 2014. In a period of a few months, my parents divorced, my relationship ended due to my partner's infidelity, and my [business](http://www.m-spaces.com) was shut down (and as a result, my relationship with investors ended). It was very tough, but I truly believe I was stronger after it. Going through pain gives you a fearlessness, like "It doesn't matter what else happens because it won't be worse than that."
+A large period of pain for me was in the beginning of 2014. In a period of a few months, my parents divorced, my relationship ended due to my partner's infidelity, my closest friend at the time was unavailable for emotional support, and my [business](http://www.m-spaces.com) was shut down (and as a result, my relationship with investors ended). It was very tough, but I truly believe I was stronger after it. Going through pain gives you a fearlessness, like "It doesn't matter what else happens because it won't be worse than that."
 
-I'm going through a similarly tough period now. In the past month, I ended my relationship due to irreconcilable differences, I let my personal spending balloon unsustainably, and I'm now living alone for the first time, which does make it a little harder. Yesterday, I was eliminated on the first day of a televised business competition, which added to the frustration. [2]
+I'm going through a similarly tough period now. In the past month, I ended my relationship due to irreconcilable differences, I let my personal spending balloon unsustainably, I had my personal worst interview performance, and I'm now living alone for the first time, which does make it a little harder. Yesterday, I was eliminated on the first day of a televised business competition, which added to the frustration. [2]
 
 My hope is that this will result in another period of growth for me. 
 
