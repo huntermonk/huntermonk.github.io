@@ -3,7 +3,7 @@ layout: post
 title:  "Queue + Stack + Fibonacci Playground.⚽️"
 ---
 
-As mentioned in [Interview Prep](/2018-11-1-interview-prep.html), I'm prepping for interviews with larger companies. I've been doing my algorithmic work in Swift Playgrounds on the iPad.
+As mentioned in [Interview Prep]({% post_url 2018-11-1-interview-prep.html%}), I'm prepping for interviews with larger companies. I've been doing my algorithmic work in Swift Playgrounds on the iPad.
 
 I'm sharing one of them today.
 
