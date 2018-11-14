@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Queue + Stack + Fibonacci Playground.⚽️"
+title:  "Queue + Stack + Fibonacci Playground. ⚽️"
 ---
 
 As mentioned in [Interview Prep](../../../2018/11/01/interview-prep.html), I'm prepping for interviews with larger companies. I've been doing my algorithmic work in Swift Playgrounds on the iPad.
