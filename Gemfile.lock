@@ -44,6 +44,8 @@ GEM
       pathutil (~> 0.9)
       rouge (>= 1.7, < 4)
       safe_yaml (~> 1.0)
+    jekyll-compose (0.8.0)
+      jekyll (~> 3.0)
     jekyll-sass-converter (1.5.2)
       sass (~> 3.4)
     jekyll-watch (2.1.2)
@@ -87,6 +89,7 @@ PLATFORMS
 DEPENDENCIES
   html-proofer
   jekyll (>= 3.7.4)
+  jekyll-compose
   nokogiri (= 1.8.2)
 
 BUNDLED WITH
