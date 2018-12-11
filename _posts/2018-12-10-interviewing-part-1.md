@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Interviewing, Part 1️⃣."
+title:  "Interviewing, part 1️⃣."
 ---
 
 I'm currently interviewing for several companies. At the moment, I have the following scheduled:
