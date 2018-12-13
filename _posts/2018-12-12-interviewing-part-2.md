@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Interviewing, part 1️⃣. YZ + Triplebyte"
+title:  "Interviewing, part 2️⃣. YZ + Triplebyte"
 ---
 
 This was a pretty weird interview experience.
