@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Interviewing, part 2️⃣. YZ + Triplebyte"
+title:  "Interviewing, part 2️⃣. YZ + Triplebyte."
 ---
 
 This was a pretty weird interview experience.
@@ -24,9 +24,9 @@ I had already recorded the [live AR demo](../../../2018/12/04/ar-plus-live-video
 
 Later, my Triplebyte rep called, and they offered to comp my meals (on top of flight and hotel which were already included), so I got a free day trip to NY which was nice.
 
-The onsite never happened - I never went to their office
+The onsite never happened - I never went to their office.
 
-----
+**Pictures**
 
 I stopped by the Amazon 4 Star store which was very unexciting.
 
@@ -40,4 +40,6 @@ By far, my favorite part of the trip happened while I took this picture:
 
 ![Pic of a road](/img/interview-prep/2/street.jpeg)
 
-I was in an Uber to the deli. There was an accident in front of us. Both drivers got out and yelled at each other in Italian. The gesticulations were exactly like in a movie. It was fantastic.
+I was in an Uber to the deli when there was a car accident in front of us. 
+
+The drivers both started yelling at each other in Italian accents - just like a movie. It was fantastic.
