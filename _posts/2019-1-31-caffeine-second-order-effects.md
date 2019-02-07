@@ -7,11 +7,12 @@ Three months ago in October of 2018, while I was prepping for interviews, I brok
 
 I wanted to maximize my sleep in order to recover faster. Because I didn't have any obligations at the time, I stopped consuming caffeine. 
 
-For several years up to that point, I would have one [5 Hour Energy](www.5hourenergy.com) every morning.
+For several years up to that point, I would have one [5 Hour Energy](http://www.5hourenergy.com) every morning.
 
 I've noticed several changes: (most predictably) a reduction in anxiety, a first-order effect. Then, two second-order effects: retaining more information when learning, and an overall greater appreciation for complexity in life.
 
 **Anxiety Reduction**
+
 This is so obvious and written about so often that it's almost not worth mentioning. Stimulants often cause anxiety. 
 
 You may be in denial about your anxiety like I was. I exhibited (and still exhibit) physical manifestations of anxiety like acne, picking at nails, etc.
@@ -19,6 +20,7 @@ You may be in denial about your anxiety like I was. I exhibited (and still exhib
 Cutting out caffeine helped reduce those.
 
 **Learning Better**
+
 This is my most interesting and unexpected change!
 
 My nose break and caffeine elimination happened right in the middle of my technical interview prep. In hindsight, I can see my rate of learning before and after.
@@ -36,6 +38,7 @@ One might expect that without caffeine, I have less "focused" time, so I would l
 This was my most unexpected and interesting second-order effect.
 
 **Complexity and Importance in Life**
+
 Caffeine creates a sort of tunnel-vision in you. Caffeine does not know what is and isn't important. It tunnels you into your most urgent task.
 
 All of this focus on my most urgent tasks created self-grandiosity in me. Because I was so immediately focused on my next task, it was hard to think about the outside world.
