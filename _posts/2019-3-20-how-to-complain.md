@@ -5,6 +5,7 @@ title:  "How to complain. 💗"
 
 I just helped someone with how to "complain" to their boss about their peer's performance. I figured I would put it into a post.
 
+_Note: This assumes you've already had a conversation with your peer, and there hasn't been a resulting change in behavior. That should almost always be your first step._
 ### Why complain?
 
 I believe it's _your duty_ to inform your manager about poor performance on your team. I believe it for three reasons:
