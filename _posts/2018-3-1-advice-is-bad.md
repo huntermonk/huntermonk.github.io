@@ -3,9 +3,9 @@ layout: post
 title:  "Getting advice can be bad."
 ---
 
-An even click-batier title than [How to start iOS contracting.](http://huntermonk.com/2018/01/22/start-ios-contracting.html)
+This is an even click-batier title than [How to start iOS contracting.](http://huntermonk.com/2018/01/22/start-ios-contracting.html)
 
-I believe that advice is helpful up to a certain point, after which it becomes detrimental. There are many articles written on why advice can be bad, so I'm going to focus on the two reasons that I believe are novel. They are: 1) The person giving advice isn't the same as you. 2) Advice-givers are generally incentivized to be overly-conservative.
+I believe that advice is helpful up to a certain point, after which it becomes detrimental. There are many articles written on why advice can be bad, so I'm going to focus on the two reasons that I think are novel. They are: 1) The person giving advice isn't the same as you. 2) Advice-givers are generally incentivized to be overly-conservative.
 
 Before we explore these two reasons, I want to clarify my thoughts on the postive aspects of advice. Of course, advice is a net good. Without it, everyone would have to, for example, burn their hands on the stove to learn that it's hot.
 
@@ -19,9 +19,9 @@ Generally, when someone gives advice, they're describing what they would do in y
 
 A more concrete example: I've always struggled with what direction I want to take my career in. I read a lot of biographies [1], and because my desire is to achieve financial wealth, and I currently work in the technology sector, that leads me to read biographies about successful technology entreprenurs. The problem with that is, I'm not like a lot of them! 
 
-So, I would read Bill Gates' biography, and I would feel bad about myself. His goals were things like: intellectual prestige, creating the best software and working with new technology. My current goals are: respect, financial wealth and interest in the opposite sex. [2]
+So, after I read Bill Gates' biography, I felt bad about myself. His goals were things like: intellectual prestige, creating the best software and working with new technology. My current goals are: respect and financial wealth. [2]
 
-Because my goals didn't align with Bill's, I would assume I'm on the wrong track, or I have a bad moral compass. In reality, my goals are shared with many successful american males. I'd argue that a majority of american musicians and athletes have the same goals as I do. I just don't have the same goals as Bill.
+Because my goals didn't align with Bill's, I assumed I'm on the wrong track, or I have a bad moral compass. In reality, my goals are healthy goals shared with a lot of people. I'd argue that a majority of american musicians and athletes have the same goals as I do. I just don't have the same goals as Bill.
 
 You may think that you can filter out the differences between yourself and the advice-giver, but it's quite hard. Their way of thinking will seep into your thoughts, especially if it's someone you hold in high regard.
 
