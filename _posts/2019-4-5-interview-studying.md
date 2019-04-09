@@ -9,8 +9,8 @@ I was just sent this:
 
 That's me studying for my first Facebook interview, two years ago!
 
-I only had about two weeks to study for my interview - I didn't think I could push it out far enough to give me enough studying time. I definitely could have.
+I was an economics major, so I was missing the core CS concepts needed for an interview. 
 
-I didn't do CS in college, so I was missing most of the core concepts needed for the interview. I didn't get an offer at that time of course.
+I failed that interview. I had two weeks to study. I could've pushed the interview out. I didn't. 
 
-But now, I received that pic while I was at my desk at on FB campus! 🤪
+But now, I received that pic while I was at my desk on FB campus! 🤪
