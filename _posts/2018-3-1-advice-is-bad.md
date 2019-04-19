@@ -3,8 +3,6 @@ layout: post
 title:  "Getting advice can be bad."
 ---
 
-This is an even click-batier title than [How to start iOS contracting.](http://huntermonk.com/2018/01/22/start-ios-contracting.html)
-
 I believe that advice is helpful up to a certain point, after which it becomes detrimental. There are many articles written on why advice can be bad, so I'm going to focus on the two reasons that I think are novel. They are: 1) The person giving advice isn't the same as you. 2) Advice-givers are generally incentivized to be overly-conservative.
 
 Before we explore these two reasons, I want to clarify my thoughts on the postive aspects of advice. Of course, advice is a net good. Without it, everyone would have to, for example, burn their hands on the stove to learn that it's hot.
