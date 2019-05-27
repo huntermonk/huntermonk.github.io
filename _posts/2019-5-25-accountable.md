@@ -12,10 +12,16 @@ If my 30 day challenge is to go to the gym every day, I have to take a picture o
 I'm writing an app to enforce this.
 
 Enter your email and I'll let you know when it's ready:
+<form action="https://formkeep.com/f/27f4ec694f19"
+      accept-charset="UTF-8"
+      enctype="multipart/form-data"
+      method="POST">
+  <input type="hidden" name="utf8" value="✓">
 
-<form action="https://formkeep.com/f/27f4ec694f19" method="POST" enctype="multipart/form-data">
-    <input type="email" name="email">
-    <button type="submit">Send</button>
+  <label for="email-address">Email Address</label>
+  <input type="email" id="email-address" name="email">
+
+  <button type="submit">Submit</button>
 </form>
 
 ## Accountable
