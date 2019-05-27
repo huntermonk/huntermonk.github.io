@@ -11,6 +11,12 @@ If my 30 day challenge is to go to the gym every day, I have to take a picture o
 
 I'm writing an app to enforce this.
 
+Enter your email and I'll let you know when it's ready:
+<form action="https://getform.io/f/243ccb1f-2d45-48ca-9a0d-313e469dc2e8" method="POST" enctype="multipart/form-data">
+    <input type="email" name="email">
+    <button type="submit">Send</button>
+</form>
+
 ## Accountable
 All it does is let you pair up with a friend. Each of you has to upload a picture of you doing your challenge (can be whatever, gym, studying) every day, for 30 days. 
 
