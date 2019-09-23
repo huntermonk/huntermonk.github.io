@@ -12,11 +12,11 @@ We had over $1M ARR across 22+ luxury spaces. At one point, we had the most revi
 ![reviews](/img/mc/reviews.png)
 _That 4.6 rating still hurts, lol._
 
-I was in contact with [Mark Cuban](https://en.wikipedia.org/wiki/Mark_Cuban) at the time. He was by far the most responsive investor I ever had. I don't think a single email I sent went without a reply for longer than 3 hours.
+I was in contact with [Mark Cuban](https://en.wikipedia.org/wiki/Mark_Cuban) at the time. He was by far the most responsive investor I ever had. I don't think a single email I sent went without a reply for longer than 3 hours. The median response was <7 minutes.
 
 He agreed to a $150k convertible note with a million dollar cap. In hindsight, I obviously should've asked for more. They wired it to my bank account.
 
-While I was waiting for the wire transfer to clear, I had a walk with [Bob Metcalfe](https://en.wikipedia.org/wiki/Robert_Metcalfe). I distinctly remember him saying:
+While I was waiting for the wire transfer to clear, [Bob Metcalfe](https://en.wikipedia.org/wiki/Robert_Metcalfe) went on a walk. I clearly remember him saying:
 > Don't count the check until it's in the bank account. 
 
 At the time, I thought it was hilarious. The transfer had already been sent. 
