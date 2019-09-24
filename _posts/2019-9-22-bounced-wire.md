@@ -16,14 +16,14 @@ I was in contact with [Mark Cuban](https://en.wikipedia.org/wiki/Mark_Cuban) at 
 
 He agreed to a $150k convertible note with a million dollar cap. In hindsight, I obviously should've asked for more. They wired it to my bank account.
 
-While I was waiting for the wire transfer to clear, [Bob Metcalfe](https://en.wikipedia.org/wiki/Robert_Metcalfe) went on a walk. I clearly remember him saying:
+While I was waiting for the wire transfer to clear, [Bob Metcalfe](https://en.wikipedia.org/wiki/Robert_Metcalfe) and I went on a walk. I clearly remember him saying:
 > Don't count the check until it's in the bank account. 
 
 At the time, I thought it was hilarious. The transfer had already been sent. 
 
 ![wire transfer](/img/mc/convertible-note.png)
 
-I disagreed with Bob a few times, and I was wrong each time.
+During my time, I disagreed with him a few times. Every single time, this one included, I was wrong.
 
 4 days later, the wire bounces! The name on the wire was for M-Spaces, and the name on the bank account was Monk Group, a general LLC I used for a broad range of business. M-Spaces was still being incorporated in Delaware, so I didn't have a bank account in its name.
 
