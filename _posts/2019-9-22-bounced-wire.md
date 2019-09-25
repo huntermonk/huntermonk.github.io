@@ -23,9 +23,9 @@ At the time, I thought it was hilarious. The transfer had already been sent.
 
 ![wire transfer](/img/mc/convertible-note.png)
 
-During my time, I disagreed with him a few times. Every single time, this one included, I was wrong.
+2 days later, the wire bounces! 
 
-4 days later, the wire bounces! The name on the wire was for M-Spaces, and the name on the bank account was Monk Group, a general LLC I used for a broad range of business. M-Spaces was still being incorporated in Delaware, so I didn't have a bank account in its name.
+The name on the wire was for M-Spaces, and the name on the bank account was Monk Group, a general LLC I used for a broad range of business. M-Spaces was still being incorporated in Delaware, so I didn't have a bank account in its name.
 
 This is _exactly_ what happens to Richard Hendricks in the [first episode of Silicon Valley](https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)). His check is for $200k instead of $150k. 🤷🏼‍♂️
 
