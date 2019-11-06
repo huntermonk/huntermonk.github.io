@@ -37,3 +37,7 @@ Now, here are the two offers compared:
 
 ![offers current](/img/offers-current.png)
 
+# Flipping A Coin
+It is very surprising that my most significant positive financial event essentially came down to a coin flip. People rarely get a clear-cut comparison like this under such a short time frame.
+
+In a way, it is freeing. You can work really hard, but ultimately life is up to chance. It gives me the same feeling as [Steve Jobs' speech about always remembering that you will die](https://www.theguardian.com/technology/2011/oct/06/steve-jobs-pancreas-cancer).
