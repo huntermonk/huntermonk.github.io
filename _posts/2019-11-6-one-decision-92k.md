@@ -7,14 +7,16 @@ On February 13th, 2019 [I wrote a post](http://huntermonk.com/2019/02/13/intervi
 
 As of today, choosing Facebook over Uber made me **$92,720 in one year**. It is, by far, the best financial decision of my life.
 
+People rarely reflect on their non-decisions ("What would my life be like if I went left at that fork in the road?"). This is a particularly clear-cut example of one that went well.
+
 # The Offers
-I actually thought I was leaving money on the table. My Uber recruiter gave me a range of expected IPO share prices. Anywhere from $45-67 per share. That range seemed plausible.
+I thought I left money on the table. My Uber recruiter gave me a range of expected IPO share prices. Anywhere from $45-67 per share. That range seemed plausible.
 
 January 18th, 2019 was when I officially accepted my offer. At this point, [$FB](https://www.google.com/search?q=%24FB) was at a historical low of $150.04, due to [Cambridge Analytica](https://en.wikipedia.org/wiki/Facebook%E2%80%93Cambridge_Analytica_data_scandal). 
 
 ![Facebook stock price](/img/fb-stock-price.png)
 
-Based on these prices, with state income tax included (Uber team was in Seattle, WA, with no state tax), the Uber offer was worth $25,036 more in the first year. I also thought Uber had better growth potential. Here is the CA state tax:
+Based on these prices, with state income tax included (Uber team was in Seattle, WA, with no state tax), the Uber offer was **worth $25,036 more** in the first year. I also thought Uber had better growth potential. Here is the CA state tax:
 
 ![state tax](/img/state-tax.png)
 
