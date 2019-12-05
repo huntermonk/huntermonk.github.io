@@ -23,6 +23,7 @@ Based on these prices, with state income tax included (Uber team was in Seattle,
 And here are the two offers compared:
 
 ![offers](/img/offers.png)
+_The value in the equity rows is given over four years._
 
 # Fast Forward, 10 Months
 Today, Uber's employee lockup ends. It's been 6 months since their IPO and their stock has been on a continual decline.
