@@ -33,7 +33,9 @@ Recently, a member asked for advice on what is a valid business expense and what
 
 As a result, everyone gave him overly-conservative advice.
 
-_This post is still under writing. I'm unsatisfied with it so far._
+Paul Graham briefly mentions this in [How to Do What You Love](http://www.paulgraham.com/love.html).
+
+> The advice of parents will tend to err on the side of money. It seems safe to say there are more undergrads who want to be novelists and whose parents want them to be doctors than who want to be doctors and whose parents want them to be novelists. The kids think their parents are "materialistic." Not necessarily. All parents tend to be more conservative for their kids than they would for themselves, simply because, as parents, they share risks more than rewards. If your eight year old son decides to climb a tall tree, or your teenage daughter decides to date the local bad boy, you won't get a share in the excitement, but if your son falls, or your daughter gets pregnant, you'll have to deal with the consequences.
 
 ---
 
