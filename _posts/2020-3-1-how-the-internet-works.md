@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Schools in Menlo Park, Pt. 2 (How The Internet Works)"
+title:  "Schools in Menlo Park: Pt. 2 (How The Internet Works) 🎓"
 ---
 
 ### Continued
