@@ -3,6 +3,8 @@ layout: post
 title:  "Interviewing, part 4️⃣. Facebook. 🔵"
 ---
 
+_This is the final part in a 4 part series. Part three: [Interviewing, part 3️⃣. Offer from Uber.](http://huntermonk.com/2018/12/25/interviewing-part-3.html)._
+
 Eventually, I did all 10 interviews. Those resulted in 5 offers.
 
 The offers were:
@@ -36,3 +38,4 @@ Now, I received a close to max offer for my level of experience. I'm elated.
 [1] An interesting aside: I wanted to cry I was so frustrated due to my performance when I came out of each of these three interviews, and only these interviews. They were my interviews that resulted in the highest offers.
 
 In an experiment, a class was split into a lecture-style class, and an interactive-style class. The students coming from the interactive class felt that they were performing worse than their lecture counterparts, but in fact scored higher than them. This seems like the same sort of phenomenon. [SOURCE NEEDED]
+

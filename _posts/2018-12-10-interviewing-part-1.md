@@ -45,3 +45,5 @@ Their feedback:
 I'm currently in [Outco](www.outco.io), a 5 week class for interview prep. You can choose to pay a small amount and a percentage of your pay after you get a job, or pay a flat rate of $5000. I chose the flat rate.
 
 [1] This will be addressed in part 2.
+
+_This is the first part in a 4 part series. Part two: [Interviewing, part 2️⃣. YZ + Triplebyte](http://huntermonk.com/2018/12/12/interviewing-part-2.html)._

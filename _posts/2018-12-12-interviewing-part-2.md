@@ -3,6 +3,8 @@ layout: post
 title:  "Interviewing, part 2️⃣. YZ + Triplebyte."
 ---
 
+_This is the second part in a 4 part series. Part one: [Interviewing, part 1️⃣.](http://huntermonk.com/2018/12/10/interviewing-part-1.html)._
+
 This was a pretty weird interview experience.
 
 I passed the Triplebyte interview, and one of the companies I was introduced to was [YZ](yz.live). They are in stealth mode, so I won't divulge what they do.
@@ -43,3 +45,6 @@ By far, my favorite part of the trip happened while I took this picture:
 I was in an Uber to the deli when there was a car accident in front of us. 
 
 The drivers both started yelling at each other in Italian accents - just like a movie. It was fantastic.
+
+
+_This is the second part in a 4 part series. Part three: [Interviewing, part 3️⃣. Offer from Uber.](http://huntermonk.com/2018/12/25/interviewing-part-3.html)._

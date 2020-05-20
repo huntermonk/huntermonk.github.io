@@ -3,6 +3,8 @@ layout: post
 title:  "Interviewing, part 3️⃣. Offer from Uber."
 ---
 
+_This is the third part in a 4 part series. Part two: [Interviewing, part 2️⃣. YZ + Triplebyte.](http://huntermonk.com/2018/12/12/interviewing-part-2.html)._
+
 So far, my interview process has gone well. Since my last post, I had a Facebook phone screen, and two Apple phone screens, all of which turned into onsites.
 
 My current schedule is the following:
@@ -54,3 +56,4 @@ He elected to have Imgur pay for my travel so I could interview sooner. I connec
 
 They're located in Jackson Square, which is a much nicer area of SF than I've ever seen. The sidewalks were urine-less.
 
+_This is the third part in a 4 part series. Part four: [Interviewing, part 4️⃣. Facebook.](http://huntermonk.com/2019/02/13/interviewing-part-4.html)._
