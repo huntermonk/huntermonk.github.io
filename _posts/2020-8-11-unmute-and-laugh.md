@@ -30,11 +30,11 @@ Hearing a laugh from the audience prompts additional laughing. The first time I 
 That's true, but that's the equivalent of someone smiling when you tell them a joke to your face. It's not the same as something audible. We have all said a joke to someone where they've softly smiled or said, "that's funny". It's just not the same.
 
 Also, laughing begets more laughing. The response I get when I say this is some stupid shit like:
-1. I'm an independent thinker, I laugh because I want to
-2. I hate laugh tracks on tv shows
+1. I'm an independent thinker, I laugh because I want to.
+2. I hate laugh tracks on TV shows.
 
 Get over yourself. Laughing from peers causes you to laugh whether you're aware of it or not. It's why:
-1. Standups aren't given to an empty room
-2. Watching funny movies with your friends is better even if you're not talking to each other
+1. Standups aren't given to an empty room.
+2. Watching funny movies with your friends is better even if you're not talking to each other.
 
 **TL;DR: Unmute yourself to laugh in big meetings and you will have a 10x better experience.**
