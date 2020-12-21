@@ -35,7 +35,7 @@ I'm extremely proud of this result. I interviewed at Facebook in April of 2017 w
 
 Now, I received a close to max offer for my level of experience. I'm elated.
 
-[1] An interesting aside: I wanted to cry I was so frustrated due to my performance when I came out of each of these three interviews, and only these interviews. They were my interviews that resulted in the highest offers.
+[1] An interesting aside: I was extremely frustrated due to my performance when I came out of each of these three interviews, and only these interviews. They were my interviews that resulted in the highest offers.
 
 In an experiment, a class was split into a lecture-style class, and an interactive-style class. The students coming from the interactive class felt that they were performing worse than their lecture counterparts, but in fact scored higher than them. This seems like the same sort of phenomenon. [SOURCE NEEDED]
 
