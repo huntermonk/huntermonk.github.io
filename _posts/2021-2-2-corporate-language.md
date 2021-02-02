@@ -11,7 +11,7 @@ In the room, he brought on [Vlad Tenev](https://en.wikipedia.org/wiki/Vladimir_T
 
 Vlad's amount of deflection + corporate speak is gross. I've included a rough transcript here. 
 
-Notice how Vlad doesn't answer Elon's question 3-4 times; only ever answering in a very circuituous way. He basically filibusters (full video at bottom):
+You don't have to read the whole thing. Just notice how Vlad doesn't answer Elon's question 3-4 times (bolded); only ever answering in a very circuituous way. He basically filibusters (full video at bottom):
 
 > _Vlad is brought up to speak to the room._
 > 
