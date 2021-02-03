@@ -4,9 +4,11 @@ title: About 😛
 permalink: /about/
 ---
 
-### I am currently available for engagement.
+### I am currently **not** available for engagement.
 
-I live in Los Angeles, available on a contract basis for Swift iOS development, specializing in Augmented Reality work. I've also done a considerable amount of work with video ([static](http://www.zapsapp.com), [3D](http://walk-in.theater), and live).
+I live in Los Angeles, working on Portal at Facebook. 
+
+I previously worked on a contract basis, focusing on Swift iOS development, specializing in Augmented Reality work. I've also done a considerable amount of work with video ([static](http://www.zapsapp.com), [3D](http://walk-in.theater), and live).
 
 Notable Clients + Colleagues 💫
 ---
