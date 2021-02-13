@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Interest Rate Arbitrage Performance. 💹"
+title:  "Live-updating strategy performance."
 ---
 
 A few days ago, I [wrote about my plan for interest rate arbitrage](http://huntermonk.com/2021/02/02/interest-rate-arbitrage.html).
