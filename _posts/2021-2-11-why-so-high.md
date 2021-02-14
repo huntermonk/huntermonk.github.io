@@ -35,6 +35,25 @@ For example, [BlockFi](https://blockfi.com/) will loan you $10k at a 9.75% inter
 
 So, why is paying that 9.75% better than just selling BTC to pay for life? A hypothetical:
 
+- On January 1st, 2020, a BTC holder has 1422.189 BTC worth $10,240,000. He lives a $120k / year lifestyle.
+    - [BTC = $7,200.17 on 1/1/2020](https://finance.yahoo.com/quote/BTC-USD/history?period1=1577836800&period2=1577923200&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true). 
+- To pay for his life, he can sell $120k worth of BTC each year.
+- But, he pays the [15% long-term capital gains tax](https://www.nerdwallet.com/article/taxes/capital-gains-tax-rates) if he sells.
+    - Assumes best case, that he held the BTC over a year.
+- That means, to actually get $120k after tax, he needs to sell 19.607 BTC worth $141,176.47. 
+- This costs him $21,176.47 (taxes).
+- On Jan 1st, 2020, he sells that amount and is left with 1402.582 BTC worth $10,098,828.84 of BTC.
+- At year end (12/31/2020), BTC is [worth $29,001.72](https://finance.yahoo.com/quote/BTC-USD/history?period1=1609286400&period2=1609545600&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true). He has 1402.582 BTC **worth $40,677,290.44**.
+
+With a collateralized loan:
+- He puts up $240k in BTC to BlockFi.
+- Gets a loan for $120k at 9.75%.
+- Over the year, that loan would cost him $11,700.
+- To cover that, on 1/1/2020, he sells 1.912 BTC worth $13,764.71 (has to pay the 15% long-term capital gains tax), and sets it aside. He has 1420.277 BTC left.
+- This costs him $2,064.71 in taxes.
+- At year end (12/31/2020), his BTC is worth $41,190,475.88. A **$513,185.44** difference.
+
+
 - A retired BTC holder has $256k of BTC. He lives a $120k / year lifestyle.
 - To pay for his life, he can sell $120k worth of BTC each year.
 - But, he pays the [15% long-term capital gains tax](https://www.nerdwallet.com/article/taxes/capital-gains-tax-rates) if he sells. (assuming the best case here, that he held the BTC over a year)
