@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "IRAP Pt. 3: Why are interest rates so high? 🌴💨"
+title:  "Arbitrage strategy: Why are interest rates so high? 🌴💨 (3/3)"
 ---
 
 Previously I [wrote about my interest rate arbitrage method](http://huntermonk.com/2021/02/06/publish-interest-rate-performance.html).
