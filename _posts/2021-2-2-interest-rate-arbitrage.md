@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Interest Rate Arbitrage. 💹 (1/3)"
+title:  "Interest rate arbitrage. 💹 (1/3)"
 ---
 
-k Plan
+# Plan
 I tweeted [that I want to take advantage of the interest rate spread on crypto lending](https://twitter.com/huntermmonk/status/1356693024177229824). Basically, get a cheap loan somewhere, deposit it in a crypto savings account, and pocket the difference. 
 
 This is [covered interest rate arbitrage](https://www.investopedia.com/terms/c/covered-interest-arbitrage.asp). Here's an example:

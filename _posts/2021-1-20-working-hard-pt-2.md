@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Working Hard Pt 2. 💻"
+title:  "Working hard pt. 2. 💻"
 ---
 
 In [Part 1](http://huntermonk.com/2021/01/13/working-hard.html), I set a goal of 2,800 hours of work in 2021.
