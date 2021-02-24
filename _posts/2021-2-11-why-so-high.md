@@ -17,7 +17,7 @@ Meaning: if you have 100k stored at Chase for a year, you'll have $100,010 at th
 ## Why the huge gap?
 There are two reasons:
 
-1. If you're bullish on crypto, it's better to get a collateralized loan against your crypto than to sell it. Lots of people want these loans.
+1. If you're bullish on crypto, it's better to get a collateralized loan against your crypto than to sell it. Lots of people want these loans. [1]
 2. When [volatility is high](https://www.buybitcoinworldwide.com/volatility-index/), traders increase leverage to speculate, and are willing to pay more.
 
 #### 1. Better to get a loan than to sell
@@ -79,3 +79,8 @@ As of writing, people will pay 21.06% to speculate long on BTC:
 - At year-end, BlockFi gets $11,700 from Scenario #2 guy, and $25,272 from speculator for a total of $37,972.
 
 _Note: Above is over-simplified but directionally accurate. I'm aware; I don't need comments picking it apart._
+
+
+_____
+
+[1] The key here is "if you're bullish on crypto". This is just another form of leverage; if the price of BTC declined during the year, losses would be increased.
