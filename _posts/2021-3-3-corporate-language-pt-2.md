@@ -28,11 +28,11 @@ $GME rose a lot; but it wasn't unheard of. On 1/15/2021, it was trading at $35.5
 
 Twelve days later on 1/27/2021, at its peak, it hit $347.51. A 878.90% increase.
 
-![GME price near rise](/img/corporate-pt-2/gme-comparison.png)
+![GME price near rise](http://huntermonk.com/img/corporate-pt-2/gme-comparison.png)
 
 That's a lot. But this happens all the time. Last year, Kodak had a bigger rise than Gamestop, and did it in **5 days**.
 
-![Kodak prices](/img/corporate-pt-2/kodak.png)
+![Kodak prices](http://huntermonk.com/img/corporate-pt-2/kodak.png)
 
 Definitely not one in 3.5 million.
 
