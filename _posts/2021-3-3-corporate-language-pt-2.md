@@ -1,7 +1,9 @@
 ---
 layout: post
 title:  "Corporate language pt 2. 👎🏼"
+date: 2021-03-03 21:15 -0700
 ---
+
 Earlier, I wrote that the CEO of Robinhood, [Vlad Tenev](https://en.wikipedia.org/wiki/Vlad_Tenev), [uses ridiculous corporate language](http://huntermonk.com/2021/02/02/corporate-language.html). It was on full effect during his [interview with Elon Musk](https://www.businessinsider.com/elon-musk-clubhouse-robinhood-ceo-vlad-tenev-interview-gamestop-stocks-2021-2) and in the [Gamestop White House Financial Services Hearing](https://www.c-span.org/video/?508545-1/gamestop-hearing-part-1&event=508545&playEvent).
 
 ## Deviation
