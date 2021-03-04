@@ -30,7 +30,7 @@ $GME rose a lot; but it wasn't unheard of. On 12/14/2020, it traded at $12.72.
 
 On 1/27/2021 it traded at $347.51, a 27x increase in [44 days](https://www.timeanddate.com/date/durationresult.html?m1=12&d1=14&y1=2020&m2=01&d2=27&y2=2021).
 
-![GME price 1/27/2021](/img/corporate-pt-2/gme1.png)
+![GME price 1/27/2021](/img/corporate-pt-2/gme2.png)
 
 This is a lot, but this happens all the time! Last year, Kodak had a bigger rise than Gamestop, and did it in **5 days**.
 
@@ -63,16 +63,18 @@ This is a version of [Wittgenstein's ruler](https://wisdomsummary.com/the-wittge
 2. You believe all swans are white.
 3. A traveler brings a black swan from Australia, and shows you.
 4. You can either conclude:
-  a. That is not a swan.
-  b. Some swans are black.
+    1. That is not a swan.
+    2. Some swans are black.
 
 In the stock market:
 1. You believe events in the stock market are a perfect normal (Gaussian) distribution. 
 2. Gamestop rises up unexpectedly fast.
 3. If stock prices are normally distributed, that makes this a 5 sigma event.
 4. You can either conclude:
-  a. This is truly a one in 3.5 million event.
-  b. Stock prices are actually not a normal distribution.
+    1. This is truly a one in 3.5 million event.
+    2. Stock prices are actually not a normal distribution.
+
+The answer is swans are black; stock prices are not normally distributed, and prices change like this all the time.
 
 It's clear that:
 1. Vlad is intentionally using handwavy math to say he's not responsible.
