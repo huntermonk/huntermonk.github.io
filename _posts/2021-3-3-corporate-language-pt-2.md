@@ -24,17 +24,17 @@ It's hard to tell what Vlad means. [2] It could be:
 Neither of these makes sense.
 
 ### Scenario #1
-$GME rose a lot; but it wasn't unheard of. On 12/14/2020, it traded at $12.72.
+$GME rose a lot; but it wasn't unheard of. On 1/15/2021, it was trading at $35.50. 
 
-![GME price 12/14/2020](/img/corporate-pt-2/gme1.png)
+Twelve days later on 1/27/2021, at its peak, it hit $347.51. A 878.90% increase.
 
-On 1/27/2021 it traded at $347.51, a 27x increase in [44 days](https://www.timeanddate.com/date/durationresult.html?m1=12&d1=14&y1=2020&m2=01&d2=27&y2=2021).
+![GME price near rise](/img/corporate-pt-2/gme-comparison.png)
 
-![GME price 1/27/2021](/img/corporate-pt-2/gme2.png)
-
-This is a lot, but this happens all the time! Last year, Kodak had a bigger rise than Gamestop, and did it in **5 days**.
+That's a lot. But this happens all the time. Last year, Kodak had a bigger rise than Gamestop, and did it in **5 days**.
 
 ![Kodak prices](/img/corporate-pt-2/kodak.png)
+
+Definitely not one in 3.5 million.
 
 ### Scenario #2
 At the other end of the spectrum: if an event happens every 5 years, you should be prepared for it. Full stop.
