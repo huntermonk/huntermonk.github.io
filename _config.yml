@@ -12,8 +12,8 @@ description: This is the personal website for Hunter Maximillion Monk.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://huntermonk.com" # the base hostname & protocol for your site
 twitter_username: huntermmonk
-github_username:  huntermonk
-timezone: America/Chicago
+github_username: huntermonk
+timezone: America/Los_Angeles
 
 google_analytics: UA-81364105-1
 
