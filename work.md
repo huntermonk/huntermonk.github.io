@@ -4,7 +4,7 @@ title: Work 📱
 permalink: /work/
 ---
 
-### I am currently available for engagement.
+### I am currently **not** available for engagement.
 
 If you'd like me to help with your project, learn more on the [about](/about) page.
 
