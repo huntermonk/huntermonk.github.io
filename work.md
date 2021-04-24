@@ -10,7 +10,7 @@ This is a brief list of various things I've made over the years, in reverse-chro
 ## 2021
 
 # [Two Squared](https://www.twosquared.app/)
-A non-custodial Bitcoin credit card.
+A non-custodial Bitcoin credit card. [Get your own card for free](https://dxfpqyr0vh4.typeform.com/to/yFD3OQur).
 
 # [SellHuracan.com](http://sellhuracan.com/)
 I had trouble finding a Huracan to buy. I made a simple video-only typeform so someone can sell me their Huracan.
