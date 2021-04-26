@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Work
+title: Work 💻
 permalink: /work/
 ---
 
