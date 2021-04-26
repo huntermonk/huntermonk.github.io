@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Work
-permalink: /work-timeline/
+permalink: /work/
 ---
 
 This is a brief list of various things I've made over the years, in reverse-chronological order.
@@ -11,22 +11,29 @@ This is a brief list of various things I've made over the years, in reverse-chro
 
 # [Two Squared](https://www.twosquared.app/)
 A non-custodial Bitcoin credit card. [Get your own card for free](https://dxfpqyr0vh4.typeform.com/to/yFD3OQur).
+![two squared](/img/work/ts.png)
 
 # [SellHuracan.com](http://sellhuracan.com/)
 I had trouble finding a Huracan to buy. I made a simple video-only typeform so someone can sell me their Huracan.
+![sell huracan](/img/work/sellhuracan.png)
 
 # Music on [Portal from Facebook](https://portal.facebook.com/)
 Supported and built on the various music players on Portal such as Spotify, Pandora, iHeartRadio, Deezer, and more.
+![portal](/img/work/portal.png)
 
 ## 2020
 
 # Portal from Facebook ([iOS](https://apps.apple.com/us/app/portal-from-facebook/id1452008908) + [Android](https://play.google.com/store/apps/details?id=com.facebook.bishop&hl=en_US&gl=US))
 > The Portal app lets you display your favorite photos, create and share albums with loved ones and make calls directly to Portal, all right from your phone.
-A React Native app we created and launched; +4.5 star rating across both platforms. It's the companion app for our Portal device.
+
+A React Native app we created and launched; +4.5 star rating across both platforms. It's the companion mobile iOS and Android app for our Portal device.
+![portal app](/img/work/portalapp.png)
 
 ## 2019
 # [Timelock](https://www.timelock.app/)
 Lock your ETH for as long as you want so you are forced to HODL. I locked my ETH away for two years and 5.7x'ed.
+
+![timelock](/img/work/timelock.png)
 
 # [Teleport](https://apps.apple.com/us/app/teleport/id1288368976)
 > Teleport™ is a first-person drone flight experience powered by intuitive body movement. Leverage your innate sense of space, lean in the direction you want to fly, and minimize motion sickness.
