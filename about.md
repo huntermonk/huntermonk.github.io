@@ -6,7 +6,7 @@ permalink: /about/
 
 ### I am currently **not** available for engagement.
 
-I live in Los Angeles, working on Portal at Facebook. 
+I live in Austin, working on various crypto projects. 
 
 I previously worked on a contract basis, focusing on Swift iOS development, specializing in Augmented Reality work. I've also done a considerable amount of work with video ([static](http://www.zapsapp.com), [3D](http://walk-in.theater), and live).
 
