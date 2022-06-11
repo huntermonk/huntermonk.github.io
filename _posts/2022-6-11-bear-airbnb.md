@@ -91,9 +91,10 @@ We had different rates for different apartments and for different nights (weeken
 At that time, the Omni's mean average rate was $190/night. If you add 15% to our rate, you get $188.60; almost exactly the same price as the Omni, and that isn't a coincidence.
 
 An AirBnB is simply a hotel that has higher variable costs, and equivalent fixed costs. Your variable costs of cleaners are higher for each type of host:
-Type 1: You either clean it yourself, earning a cleaner's wage, or you have a cleaner drive to your place for a one-off clean. They are not maximizing their time cleaning.
-Type 2: Same problems as #1.
-Type 3: The best of the three solutions, but requires driving across the city to each unit. Forgetting a fitted sheet is fatal. [4]
+
+- **Type 1**: You either clean it yourself, earning a cleaner's wage, or you have a cleaner drive to your place for a one-off clean. They are not maximizing their time cleaning.
+- **Type 2**: Same problems as #1.
+- **Type 3**: The best of the three solutions, but requires driving across the city to each unit. Forgetting a fitted sheet is fatal. [4]
 
 ## The Current State
 Now, the hosts are realizing their AirBnBs are not worth it! People add crazy cleaning fees to cover the taxes and general costs of running it.
