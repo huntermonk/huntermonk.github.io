@@ -2,7 +2,7 @@
 
 layout: post
 title:  "The bear case for AirBnB. 🐻"
-date: 2022-6-11 15:25 -0800
+date: 2022-6-11 11:00 -0800
 ---
 
 I believe that AirBnB is not a good business. It's not due to the team, or the market. It's due to the nature of the business _as a host_.
