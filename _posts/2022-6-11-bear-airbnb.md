@@ -96,6 +96,15 @@ An AirBnB is simply a hotel that has higher variable costs, and equivalent fixed
 - **Type 2**: Same problems as #1.
 - **Type 3**: The best of the three solutions, but requires driving across the city to each unit. Forgetting a fitted sheet is fatal. [4]
 
+## But AirBnB is part of the new sharing economy!
+There is one other argument I hear: "AirBnB is Uber for extra space. Uber turns underutilized assets (consumer cars) and creates higher utilization. AirBnB takes unused space, and utilizes it to a higher degree."
+
+The problem with this comparison is two-fold:
+1. It’s much easier to create a taxi-like (or better) experience than it is to create a hotel-like (or better) experience.
+
+2. The cheapness, ease of booking and tracking via Uber created an increase in demand. Taxi usage + Uber usage is MUCH higher than taxi usage was before Uber. _People take Uber trips when they wouldn’t have taken a taxi._ Any trip someone takes with an AirBnB they previously would’ve used HomeAway or a hotel; it doesn’t create new demand. [5]
+
+
 ## The Current State
 Now, the hosts are realizing their AirBnBs are not worth it! People add crazy cleaning fees to cover the taxes and general costs of running it.
 
@@ -116,3 +125,5 @@ Will it be profitable? No.
 [3] As part of my ongoing experimentation with pricing on rooms, I was able to get a call with the man in charge of Omni rate-setting to learn from him. In 2014, he had no idea what AirBnB was.
 
 [4] "Well why don't you just put ALL your units in one building?" Yeah, now you've re-created a weird hotel. Just go buy a hotel then.
+
+[5] Thanks to Jake Bailey for sparking a reminder to add this point.
