@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  "Self-reinforcing cycles of risk taking"
+title:  "Self-reinforcing cycles of risk taking."
 date: 2022-07-21 11:00 -0800
 ---
-
 Risk appetite is not a stomach that gets filled up. It is a muscle that gets stronger with use. Taking risks begets more risk in a self-reinforcing cycle.
 
 ## Reinforcing Cycles in Markets
