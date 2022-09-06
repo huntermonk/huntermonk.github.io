@@ -13,3 +13,5 @@ Unfortunately, I ended short of my goal.
 It was a fairly aggressive goal. I stop my timer if I take a phone call, make food, get mail, or anything not work related. Given that fairly strict definition of work, it is still a solid performance.
 
 I will make my goal next year.
+
+_Edit: The output in the picture doesn't quite make sense because I ran it on 1/2/2022 instead of during 2021. I worked 2,644.91 hours in 2021 - 155.09 hours short._
