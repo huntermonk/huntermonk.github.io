@@ -5,6 +5,8 @@ title:  "The bear case for AirBnB. 🐻"
 date: 2022-06-11 11:00 -0800
 ---
 
+_Update: I've added a video version of this post: https://rumble.com/v1n9sfq-the-bear-case-for-airbnb.html_
+
 I believe that AirBnB is not a good business. It's not due to the team, or the market. It's due to the nature of the business _as a host_.
 
 AirBnB is, at time of writing, at a [106.22 B market cap](https://companiesmarketcap.com/airbnb/marketcap/). That makes it the largest hotel company in the world by a margin of 64.35%.
