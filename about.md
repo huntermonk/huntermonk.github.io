@@ -4,7 +4,7 @@ title: About 😛
 permalink: /about/
 ---
 
-### I am currently **not** available for engagement.
+### I am currently **available** for engagement.
 
 I live in Austin, working on various crypto projects. 
 
