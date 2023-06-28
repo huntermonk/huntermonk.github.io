@@ -18,7 +18,7 @@ This essay is based on my experience as a professional AirBnB host from 2013 to 
 There are largely three types of hosts.
 
 ## Three Host Types
-The first type of host is the side-gig host. This is someone who is renting out their extra room, guest house, etc.
+The first type is the side-gig host. This is someone who is renting out their extra room, guest house, etc.
 
 The second is a host with a space for large groups. They host groups of 6+ in large homes; often near beaches etc. where large groups of friends travel. These hosts existed on VRBO before AirBnB.
 
@@ -27,7 +27,7 @@ The third type is a professional host. They buy or rent locations for the sole p
 ### Side-Gig Host
 This is the majority of hosts. They are casually hosting. 
 
-It's profitable for this person to host because they will keep their rantable space even if they weren't an AirBnB host. For them, the cost of their lease, cost of capital, HOA fees, etc. should be "on their books" as $0.
+It's profitable for this person to host because they will keep their rentable space even if they weren't on AirBnB. For them, the cost of their lease, cost of capital, HOA fees, etc. should be "on their books" as $0.
 
 However, they are not professionals. The guest experience between hosts is wildly different. Hosts have different standards for:
 1. Cleanliness.
@@ -45,7 +45,7 @@ This form of hosting is profitable for the host, but creates wildly different ex
 ### Large Group Host
 This type of host already existed on VRBO / HomeAway. They provide [ski cabins for families](https://www.vrbo.com/834746?unitId=1382685&noDates=true) and [party houses for spring breakers](https://www.vrbo.com/850255?noDates=true&unitId=1398194). It could either be an investment property, lake house that's rented when owner isn't there, etc.
 
-Their revenue is not significantly displaced changed AirBnB. For this type of host, life continues as normal except that they now have a new advertising medium, AirBnB.
+Their revenue is not significantly changed by AirBnB. For this type of host, life continues as normal except that they now have a new advertising medium, AirBnB.
 
 However, from a guest's standpoint, this represents a very small percentage of travel. This is almost always leisure trips that require coordinating groups. It represents <4% of travel. [1]
 
