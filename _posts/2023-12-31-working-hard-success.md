@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Working hard, success."
-date: 2023-12-31 14:30 -0600
+date: 2023-12-31 14:20 -0600
 ---
 
 As mentioned in [Working hard. ⏱](https://huntermonk.com/2021/01/13/working-hard.html), since 2021 I've had a goal of completing 2,800 hours of focused work in a year.
