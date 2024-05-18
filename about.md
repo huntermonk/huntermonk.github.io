@@ -4,9 +4,9 @@ title: About 👤
 permalink: /about/
 ---
 
-### I am currently **available** for engagement.
+### I am currently **unavailable** for engagement.
 
-I live in Austin, working on various crypto projects.
+I live in Austin, working on various technical projects.
 
 I previously worked on a contract basis, focusing on Swift iOS development, specializing in Augmented Reality work. I've also done a considerable amount of work with video ([static](http://www.zapsapp.com), [3D](http://walk-in.theater), and live).
 
