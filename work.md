@@ -11,13 +11,13 @@ This is a brief list of various things I've made over the years, in reverse-chro
 
 # [Tavern.fm](https://tavern.fm)
 NFT community-driven audio conversations for DAO coordination.
-![tavern.fm](/img/work/ts.png)
+![tavern.fm](/img/work/tavern.png)
 
 ## 2022
 
 # [Compose.art](https://compose.art/)
 The easiest way to create identity-driven NFTs for generative algorithm-driven PFPs.
-![compose.art](/img/work/ts.png)
+![compose.art](/img/work/compose.png)
 
 ## 2021
 
