@@ -7,6 +7,18 @@ permalink: /work/
 This is a brief list of various things I've made over the years, in reverse-chronological order.
 <br>
 
+## 2023
+
+# [Tavern.fm](https://tavern.fm)
+NFT community-driven audio conversations for DAO coordination.
+![tavern.fm](/img/work/ts.png)
+
+## 2022
+
+# [Compose.art](https://compose.art/)
+The easiest way to create identity-driven NFTs for generative algorithm-driven PFPs.
+![compose.art](/img/work/ts.png)
+
 ## 2021
 
 # [Two Squared](https://www.twosquared.app/)
@@ -111,7 +123,7 @@ Movere Fit is a system for tracking the correlation between your student’s ath
 
 The data collected shows their movement through the “profiency bands” defined by Movere Fit. The data holds important information that directs students, parents and teachers to address areas of needed improvement.
 
-# Puppy 🐶 or Bagel 🍩 
+# Puppy 🐶 or Bagel 🍩
 
 I had a challenge for myself to create and submit a game to the app store in 8 hours. On the day of the challenge, a [puppy or bagel meme](http://twistedsifter.com/2016/03/puppy-or-bagel-meme-gallery/) blew up on the internet, made by [teenybiscuit](https://twitter.com/teenybiscuit?lang=en).
 
