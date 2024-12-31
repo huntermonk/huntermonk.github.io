@@ -7,4 +7,4 @@ gem "rack", ">= 2.0.9.1"
 gem "actionview", ">= 5.2.7.1"
 gem 'jekyll-feed'
 gem 'jekyll-compose', group: [:jekyll_plugins]
-gem "webrick", "~> 1.7"
+gem "webrick", "~> 1.8"
