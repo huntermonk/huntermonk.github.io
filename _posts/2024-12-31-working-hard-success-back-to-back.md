@@ -30,14 +30,14 @@ I'm not sure why that is. I will say that my current pace feels more sustainable
 There were four significant business and personal outcomes from this focus:
 
 _Business_
-1. I sold my first business, which was cofounded with a long-time friend and partner. It was a nominal outcome, but positive.
-2. This is the first time I am living solely off of my own business that can be fully productized. Previous businesses were either contracting (my time for money) or service-heavy.
+1b. I sold my first business, which was cofounded with a long-time friend and partner. It was a nominal outcome, but positive.
+2b. This is the first time I am living solely off of my own business that can be fully productized. Previous businesses were either contracting (my time for money) or service-heavy.
 
 In addition, I have hit two milestones that are an integral part of a person's journey for fulfillment. This blog is focused on work, but these are important.
 
 _Personal_
-3. I have purchased my first home. Getting the 30 year mortgage took seven months. It was the hardest thing I have ever done.
-4. On a trip to Italy, I got engaged, to be married in 2025.
+1p. I have purchased my first home. Getting the 30 year mortgage took seven months. It was the hardest thing I have ever done.
+2p. On a trip to Italy, I got engaged, to be married in 2025.
 
 Personal and work accomplishments and intertwined. Fulfillment from achieving excellence in your field builds confidence, which builds relationships, which refills you to further achieve your goals.
 
@@ -45,5 +45,5 @@ They build on each other. Both in a natural sense (accomplishments in your field
 
 A utopia implies no struggle, which devoids life of meaning. It is not possible, and even if it was, humans would not want it. The pain of personal and work accomplishment is what makes happiness sweet.
 
-Ultimately, our purpose on this Earth to be happy. The only constant in this world is that human nature does not change. And for all of time, through all civilizations, the most important item on that list is #4.
+Ultimately, our purpose on this Earth to be happy. The only constant in this world is that human nature does not change. And for all of time, through all civilizations, the most important item on that list is #2p.
 
