@@ -6,13 +6,22 @@ date: 2025-03-25 15:10 -0600
 
 An extremely underappreciated tool is the "no update", update. 
 
-An easy trap to fall into when someone is waiting on you to complete something, and it's delayed, is to think that if they are upset, it's because it's not getting completed fast enough. Or the right way.
+An easy trap to fall into when someone is waiting on you to complete something, and it's delayed, is to assume they are upset. And that they're upset because it's not getting completed fast enough.
 
-Taht'st true some of the time, but IMO 85% of the pain of the delays is not the delayed outcome, it's not trusting that it's being actively worked on. It's also thepain of having to use up brain space to keep thinking about it.
+That's true some of the time, but IMO 85% of the pain of the delays is not the delayed outcome. It's not trusting that the task is actively being worked on. In addition, it's the pain of having to use up brain space to keep thinking about it.
 
-Depending on the person, the latter cost can be even higher. As long as you know it's actually being worked on and pushed forward, if you trust the ability of theperson doing the task, you can't make them smarter or faster. But you can make sure they're actually doing it.
+Depending on the person, the latter cost can be even higher. If you're working with an A player, as soon as you tell them it needs to be done, you can completely forget about it. It's as good as done. 
 
-Maintaining the following in your brain takes up a lot of space:
+For B players, you have to remember the task you assigned. Periodically, you have to check up.
+
+For C players, you have to remember the task you assigned. Periodically, you have to check up. Periodically, they get upset that you're micromanaging them, so now you have two things to remember:
+
+1. I assigned Charlie task X. I need to follow up on that.
+2. Charlie got mad and performed worse when I asked on consecutive days. Has it been enough days? How else can I check on this?
+
+A players are fire-and-forget. That doesn't mean they will do it one shot and bring it back to you. It means you also trust them to give you timely updates when relevant.
+
+If someone is not an A player, your brain is taken up with:
 1. What are the tasks on my plate?
 2. For the tasks that are delegated, who owns it?
 3. If someone else owns it, is the ball in my court our theirs?
@@ -20,8 +29,6 @@ Maintaining the following in your brain takes up a lot of space:
 5. If status is unclear, or update is expected at this point, when was the last time I requested an update?
 6. Am I exceeding my social capital or adding to frustrating by asking again?
 7. (if get to this point) cost of having to ask and/or explain why need to ask.
-
-I find that when people get angry in these situations, it's actually much more about resentment for taking up brain space having to think about the problem. Less so about the actual outcome.
 
 All of this can be ameliorated by simply continually updating the task master on a regular basis. Crucially, that means updating them, even if you are messaging them to say "there is no update or change. will update again by 5PM EST tomorrow."
 
