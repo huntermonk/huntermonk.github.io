@@ -33,7 +33,7 @@ For my dad, being happy is called "living in the light". I'm not sure why he cal
 
 He asked my sister to call him _every hour of every day from 8AM to 5PM_ and ask "Dad, are you living in the light?". 10 calls a day. He had to pick up each call, and of course answer honestly. Anything but a firm "yes" restarted the 30 day timer.
 
-It worked. After 2.5 months he made it 30 days. Since that point in time he still is consistently the happiest person I ahave ever met.
+It worked. After 2.5 months he made it 30 days. Since that point in time he still is consistently the happiest person I have ever met.
 
 # Practical Applications
 
@@ -47,13 +47,13 @@ Beyond the obvious immediate impact for personal happiness, I think there are a 
 
 Each of these is applicable for yourself. But more immediately, it can be helpful to think about each of these in context of working relationships.
 
-## The First 12 Months 
+### The First 12 Months 
 
 His experience of pursuing an inner goal in earnest failing without external checks is consistent with what I see in my and other's lives. 
 
 When attempting to drive change within yourself, in teammates or an organization, there needs to be a quantitative or qualitative measurement of that goal. A lossy indicator (he could've lied on those calls!) is still significantly better than a goal without a check.
 
-## Accountability Partner
+### Accountability Partner
 
 My sister played the role of an accountability partner. That partner can be a person. It can also be a market, product or service. Whatever it takes to avoid the error in #1.
 
@@ -61,14 +61,14 @@ For hard to change behaviors, an individual who you don't want to let down is th
 
 I've wrote about it in a very short three part series when I needed that. [One](https://huntermonk.com/2018/04/29/30-day-challenge.html), [two](https://huntermonk.com/2018/05/13/30-day-challenge-update.html), and [three](https://huntermonk.com/2018/05/31/30-day-challenge-complete.html).
 
-## Repetition
-What an incredibly simple task! It was a <3 second phone call. It did not require high levels of introspection. It's simpler than [Skinner's Box](https://en.wikipedia.org/wiki/Operant_conditioning_chamber)!
+### Repetition
+What an incredibly simple task! It was a <3 second phone call. It did not require high levels of introspection. We are simpler than the dogs in [Skinner's Box](https://en.wikipedia.org/wiki/Operant_conditioning_chamber)!
 
-A subject I would like to write about in the future is how humans throughout time believe we are more important and complex than we really are. It's for another time.
+In the future, I would like to write about how humans, consistently throughout time, believe we are more important and complex than we really are. A post for another time.
 
 For now, this is a great illustration that driving changes in human behavior is very simple. It just takes more consistency than you expect.
 
-## Permanency
+### Permanency
 
 I am surprised at how consistent the behavior change has been. I have never seen him slip back into anger at any point in my life since then.
 
@@ -76,7 +76,7 @@ To be frank, I don't understand why that is. It could be that before the pain wa
 
 Rather than speculate as belief, I will simply say I do not know why this change became so permanent.
 
-## Mental Malleability
+### Mental Malleability
 
 The most important takeaway is illustrating how malleable our internal state is. He was 54 on the day of the mouse genocide. He had lived an angry life with fervor every year until then.
 
