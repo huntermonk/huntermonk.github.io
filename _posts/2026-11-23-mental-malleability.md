@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Killing three mice."
-date: 2026-11-23 12:00 -0600
+date: 2026-11-23 11:23 -0600
 ---
 
 A very impactful aspect of my personal life was my opportunity to see someone up close go through a radical, positive mental change. It made it very clear that positive change can be made through simple repeated mechanics.
